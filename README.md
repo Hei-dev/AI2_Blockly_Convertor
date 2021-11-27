@@ -2,7 +2,7 @@
  Converts AI2 Blockly to JavaScript
 ## Project Work in progress
  The project is under heavy construction\
- Very little functions will actually works in this state.\
+ Very little functions will actually works in this state.
 
 ## Project structure
  Folder:
