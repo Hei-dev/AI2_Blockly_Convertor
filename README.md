@@ -5,7 +5,7 @@
  Very little functions will actually works in this state.\
 
 ## Project structure
- Folder:\
+ Folder:
  - AI2: The exported blockly XML file from App Inventor.
  - AI2-libs/code-js: The Converted code from the block in JavaScript
  - AI2-lis/def: THe AI2 blockly's definition files
