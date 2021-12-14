@@ -551,8 +551,7 @@ Blockly.Blocks['math_random_set_seed'] = {
     this.setOutput(false, ['Number','String']);
     this.appendValueInput('NUM')
         .setCheck(['Number'])
-        .appendField(Blockly.Msg.LANG_MATH_RANDOM_SEED_TITLE_RANDOM)
-        .appendField(Blockly.Msg.LANG_MATH_RANDOM_SEED_INPUT_TO);
+        .appendField("Random with seed");
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     this.setTooltip(Blockly.Msg.LANG_MATH_RANDOM_SEED_TOOLTIP);
