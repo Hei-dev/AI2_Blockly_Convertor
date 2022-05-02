@@ -4,6 +4,8 @@
  The project is under heavy construction\
  Very little functions will actually works in this state.
 
+===========DEVELOPER NOTES=============
+
 ## Project structure
  Folder:
  - AI2: The exported blockly XML file from App Inventor.
