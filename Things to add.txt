@@ -29,14 +29,14 @@
 
 
     
-- Texts Section (Partial) [INCOMPLETE]
+- Texts Section (Partial) 
     Special Notes:
     - text_compare (new algrithm)
-    - text_starts_at (Corresponding block: text_indexOf with field "END" = START (ironic lol), search for the first occurance of x in a string)
+    - text_starts_at (Corresponding block: text_indexOf with field "END" = START (ironic lol), search for the first occurance of x in a string) [TBC]
     - text_contains (new algrithm, search if String contains x / string.contains(x) in Java)
-    - text_split (new algrithm)
+    - text_split (new algrithm) 
     - text_split_at_spaces (new algrithm)
-    - text_segment (Corresponding block: text_getSubstr)
+    - text_segment (Corresponding block: text_getSubstr) [TBC]
     - text_replace_all (new algrithm)
     - obfuscated_text (new algrithm)
     - text_is_string (new algrithm, check if var is string)
